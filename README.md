@@ -1,12 +1,43 @@
-- 👋 Hi, I’m @sebcherry6
-- 👀 I’m interested in game design and software engineering.
-- 🌱 I’m currently learning computer science.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 Hi, I'm Seb Cherry
 
-<!---
-sebcherry6/sebcherry6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎮 **Game Design Enthusiast | 💻 Software Engineering Student | 🚀 Aspiring Developer**
+
+Welcome to my GitHub profile! I'm passionate about creating interactive experiences, building software, and exploring new technologies.
+
+## 👀 About Me
+
+- 🎮 I'm interested in **game development, game design, and software engineering**
+- 🌱 Currently studying **Computer Science** and expanding my programming skills
+- 🛠️ Enjoy working on projects involving **C#, MonoGame, and creative software solutions**
+- 🎵 Outside of coding, I enjoy music, playing drums, and exploring new ideas
+
+## 💞️ I'm Looking To Collaborate On
+
+- 🎮 Game development projects
+- 💻 Software engineering projects
+- 🌟 Open-source contributions
+- 🚀 Creative and innovative coding projects
+
+## 📫 Get In Touch
+
+Feel free to connect with me or check out my projects here on GitHub!
+
+## ⚡ Fun Fact
+
+🥁 I play drums in a band and love combining creativity with technology.
+
+## 🚀 Featured Projects
+
+🎮 **Project Uno**  
+A MonoGame platformer featuring animated characters, enemies, level transitions, and boss fights.
+
+💻 More projects coming soon...
+
+## 📊 GitHub Stats
+
+![Seb's GitHub stats](https://github-readme-stats.vercel.app/api?username=sebcherry6&show_icons=true&theme=tokyonight)
+
+---
+
+⭐ Thanks for stopping by! Feel free to explore my repositories and follow my journey as I continue learning and building.
+
