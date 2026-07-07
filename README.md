@@ -33,9 +33,9 @@ A MonoGame platformer featuring animated characters, enemies, level transitions,
 
 💻 More projects coming soon...
 
-## 📊 GitHub Stats
+## 📈 GitHub Activity
 
-![Seb's GitHub stats](https://github-readme-stats.vercel.app/api?username=sebcherry6&show_icons=true&theme=tokyonight)
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=sebcherry6&theme=tokyo-night)
 
 ---
 
