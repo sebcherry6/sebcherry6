@@ -1,4 +1,4 @@
-# Seb Cherry
+# WebCherry
 
 **Software Engineering Student | Backend & Systems Focus**  
 UK based.
